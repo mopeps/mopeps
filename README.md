@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![Mopeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopeps&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+- 💼 I'm currently working as a Software Engineer
 
+![github stats](https://github-readme-stats.vercel.app/api?username=mopeps&show_icons=true&hide=stars&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7)
 
-
-
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mopeps&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7&hide=jupyter%20notebook,TeX,css,scss)
 
 
 <!--
