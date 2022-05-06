@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Mopeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopeps)](https://github.com/anuraghazra/github-readme-stats)
+[![Mopeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopeps&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
